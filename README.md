@@ -1,5 +1,7 @@
 # Advanced Speech to Text Recognition using Selenium
 
+![Output](https://github.com/AnubhavChaturved1/Python-STT/blob/main/Screenshot%202024-04-13%20151959.png)
+
 This Python script utilizes Selenium to perform advanced speech to text recognition. It interacts with a specific website to transcribe speech input from the user and save it to a text file.
 
 ## Prerequisites
